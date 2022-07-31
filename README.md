@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @The-Noam
-- 👀 I’m interested in network analysis and programming in javascript (node.js) 
+- 🧑‍💻 I'm interested in Software Engineering
+- 🐍 Python programmer 
 - 🌱 I’m currently learning (c)
