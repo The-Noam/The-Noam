@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @The-Noam
 - 👀 I’m interested in network analysis and programming in javascript (node.js) 
-- 🌱 I’m currently learning cpp (c++)
+- 🌱 I’m currently learning (c)
