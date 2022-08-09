@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-noam&show_icons=true&locale=en" alt="the-noam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-noam&" alt="the-noam" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
