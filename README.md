@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Noam Nahum</h1>
-<h3 align="center">Backend Programmer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-noam&label=Profile%20views&color=0e75b6&style=flat" alt="the-noam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-noam" alt="the-noam" /></a> </p>
 
-- 🔭 Languages **C, Python, JavaScript**
+- 🔭 Languages **C, Python, JavaScript, C#**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **Python , C , JS**
 
