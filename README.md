@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/thenoamam" target="blank"><img src="https://img.shields.io/twitter/follow/thenoamam?logo=twitter&style=for-the-badge" alt="thenoamam" /></a> </p>
 
-- 🔭 I’m currently working on **multipls projects**
+- 🔭 I’m currently working on **multiple projects**
+
 
 - 🌱 I’m currently learning **Software enginnering**
 
+
 - 💬 Ask me about **Python, JavaScript, C, C#**
 
+
 - ⚡ Fun fact **I started coding since I was 9**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
